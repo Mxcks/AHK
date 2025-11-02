@@ -1,0 +1,26 @@
+# AutoHotkey
+*.exe
+*.tmp
+*.bak
+
+# Log files
+*.log
+*.txt
+coordinates-log.txt
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+~*
+*.swp
+*.swo
+
+# MacroRecorder (keeping the folder but ignoring if needed)
+# MacroRecorderTrialJava11/
+

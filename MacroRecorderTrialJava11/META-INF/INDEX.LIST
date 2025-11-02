@@ -1,0 +1,17 @@
+JarIndex-Version: 1.0
+
+naturalmouse-2.0.2.jar
+META-INF
+META-INF/maven
+META-INF/maven/com.github.joonasvali.naturalmouse
+META-INF/maven/com.github.joonasvali.naturalmouse/naturalmouse
+com
+com/github
+com/github/joonasvali
+com/github/joonasvali/naturalmouse
+com/github/joonasvali/naturalmouse/api
+com/github/joonasvali/naturalmouse/support
+com/github/joonasvali/naturalmouse/support/mousemotion
+com/github/joonasvali/naturalmouse/tools
+com/github/joonasvali/naturalmouse/util
+
